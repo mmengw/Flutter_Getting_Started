@@ -1,4 +1,4 @@
-# getting_started
+# example
 
 A new Flutter project.
 
